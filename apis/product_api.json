@@ -1,0 +1,92 @@
+[
+    {
+       "name":"Horlicks",
+       "product_class":"health drinks",
+       "discount_price":298,
+       "mrp":298,
+       "launchedAt":"",
+       "rating":4.4,
+       "image":"https://m.media-amazon.com/images/I/51SEcO7g7tL._AC_UL600_FMwebp_QL65_.jpg"
+    },
+    {
+        "name":"Sugar Free",
+        "product_class":"natural sweetner",
+        "discount_price":245,
+        "mrp":350,
+        "launchedAt":"",
+        "rating":4.2,
+        "image":"https://m.media-amazon.com/images/I/716vVMF8QIL._AC_UL600_FMwebp_QL65_.jpg"
+     },
+     {
+        "name":"Dates Powder",
+        "product_class":"natural sweetner",
+        "discount_price":300,
+        "mrp":499,
+        "launchedAt":"",
+        "rating":4.0,
+        "image":"https://m.media-amazon.com/images/I/71hC+oolsUL._AC_UL600_FMwebp_QL65_.jpg"
+     },
+     {
+        "name":"Boyo",
+        "product_class":"unsweetned sweets",
+        "discount_price":255,
+        "mrp":350,
+        "launchedAt":"",
+        "rating":3.8,
+        "image":"https://m.media-amazon.com/images/I/71G41uglSQL._AC_UL600_FMwebp_QL65_.jpg"
+     },
+     {
+        "name":"Bournvita",
+        "product_class":"health drinks",
+        "discount_price":737,
+        "mrp":838,
+        "launchedAt":"",
+        "rating":4.5,
+        "image":"https://m.media-amazon.com/images/I/71foBxdA7tL._AC_UL600_FMwebp_QL65_.jpg"
+     },
+     {
+        "name":"Orev health",
+        "product_class":"health flour",
+        "discount_price":210,
+        "mrp":250,
+        "launchedAt":"",
+        "rating":2.9,
+        "image":"https://m.media-amazon.com/images/I/51qaOsvv4XL._AC_UL600_FMwebp_QL65_.jpg"
+     },
+     {
+        "name":"MyFitness",
+        "product_class":"butter",
+        "discount_price":298,
+        "mrp":320,
+        "launchedAt":"",
+        "rating":4.5,
+        "image":"https://m.media-amazon.com/images/I/61YRzZhKASL._AC_UL600_FMwebp_QL65_.jpg"
+     },
+     {
+        "name":"Fortune",
+        "product_class":"oil",
+        "discount_price":189,
+        "mrp":224,
+        "launchedAt":"",
+        "rating":4.4,
+        "image":"https://m.media-amazon.com/images/I/51TH5xE+2sL._AC_UL600_FMwebp_QL65_.jpg"
+     },
+     {
+        "name":"Sundrop",
+        "product_class":"butter",
+        "discount_price":230,
+        "mrp":250,
+        "launchedAt":"",
+        "rating":4.3,
+        "image":"https://m.media-amazon.com/images/I/61H5vX0UwYL._AC_UL600_FMwebp_QL65_.jpg"
+     },
+     {
+        "name":"Tazo",
+        "product_class":"unsweetned sweets",
+        "discount_price":1548,
+        "mrp":1698,
+        "launchedAt":"",
+        "rating":4.3,
+        "image":"https://m.media-amazon.com/images/I/41Js9L4xY-L._AC_UL600_FMwebp_QL65_.jpg"
+     }
+]
